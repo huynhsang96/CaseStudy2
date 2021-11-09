@@ -46,7 +46,7 @@ $bg-section: linear-gradient(to right, #fa9e1b, #8d4fff);
 }
 
 .btn:hover .btn-bg{
-    transform: scaleX(1);
+    transform: scaleX(1) ;
     transition: all 400ms ease;
 }
 
@@ -807,10 +807,10 @@ html, body{
 
 .contac__background{
     position: absolute;
+    height: 80.5%;
     width: 100%;
-    padding-top: 40%;
     background-image: url(./Image/xContact.webp);
-    background-position: center;
+    background-position: top center;
     background-size: cover;
     background-repeat: no-repeat;
 }
