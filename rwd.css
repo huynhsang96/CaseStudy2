@@ -32,6 +32,10 @@
     .contac__background{
         display: none;
     }
+
+    .contact{
+        background: none;
+    }
 }
 
 /* Tablet */
